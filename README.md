@@ -1,5 +1,5 @@
 ## Rafael Fernandes - Software Engineering Student @ UA
-<div align="center">
+<div align="left">
 
 ![](https://github-readme-stats.vercel.app/api?username=rafaeltorrinhas&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafaeltorrinhas&theme=tokyonight&hide_border=true)<br/>
