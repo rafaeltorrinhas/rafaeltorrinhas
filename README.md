@@ -1,4 +1,9 @@
 ## Rafael Fernandes - Student in Software Engineering @ UA
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeltorrinhas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltorrinhas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=rafaeltorrinhas&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafaeltorrinhas&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltorrinhas&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+</div>
